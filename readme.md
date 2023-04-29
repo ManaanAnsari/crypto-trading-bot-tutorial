@@ -1,4 +1,4 @@
-#Crypto trading bot tutorial using [CCXT](https://github.com/ccxt/ccxt)
+# Crypto trading bot tutorial using [CCXT](https://github.com/ccxt/ccxt)
 
 1. Basic overview & EMA implementation
 2. implementation of popular strategies
